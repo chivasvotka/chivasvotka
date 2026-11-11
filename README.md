@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,45:1a3a6b,100:1e90ff&text=chivasvotka&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Whmcs%20Addon%20Developer%20%E2%80%A2%20System%20Architect&descAlignY=58&descSize=17&animation=fadeIn"/>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=700&lines=Building+things+since+2020.;Backend+%E2%80%A2+Frontends;Php+%E2%80%A2+Laravel+%E2%80%A2+Javascript;Turning+ideas+into+real+products." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=700&lines=Building+things+since+2022.;Backend+%E2%80%A2+Frontends;Php+%E2%80%A2+Laravel+%E2%80%A2+Javascript;Turning+ideas+into+real+products." />
 </a>
 <br><br>
 <a href="https://chivasvotka.com">
@@ -49,7 +49,7 @@ I began software coding in 2022, and IT services in 2024.
 <div align="center">
 
 ### 🧰 Tech Arsenal
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,aws,azure,gcp,cloudflare,bootstrap,alpinejs,css,c,cs,cpp,js,html,wordpress,php,java,sqlite,mysql,postgres,discord,bots,discordjs,figma,vscode,visualstudio&perline=8" />
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,aws,azure,gcp,cloudflare,bootstrap,alpinejs,css,c,cs,cpp,js,html,wordpress,php,java,sqlite,mysql,postgres,discord,bots,discordjs,figma,vscode,visualstudio&perline=8"/>
 
 ## 🚀 Featured Projects
 <table>
