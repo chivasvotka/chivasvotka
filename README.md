@@ -66,7 +66,7 @@ Virtual server, data center, and hosting services
 </td>
 <td width="50%" valign="top">
 
-### 🎈 xTrapPlugin
+### 🎈 Epin Diyarı
 Social media (SMM Panel) services.
 
 `SMM` `SocicalMedia` `Socical` `Instagram` `Tiktok`
