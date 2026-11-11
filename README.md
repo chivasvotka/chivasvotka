@@ -73,15 +73,6 @@ Social media (SMM Panel) services.
 
 🔗 **[epindiyari.com](https://epindiyari.com)**
 </td>
-<td width="50%" valign="top">
-
-### 💬 MC-Lounge
-Minecraft server trapvp gamemode plugin.
-
-`Forum` `Game` `Minecraft` `Community` `Global`
-
-🔗 **[mc-lounge.com](https://mc-lounge.com)**
-</td>
 </tr>
 </table>
 <br>
